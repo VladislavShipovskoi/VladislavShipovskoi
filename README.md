@@ -4,7 +4,7 @@ I have 5 years of Extensive experience as a Software Engineer and a desire to co
 Technical skills:
 - Web Technologies: React JS, Redux, Redux-Saga, Redux-Thunk, Node.js, HTML, CSS;
 - Programming Languages : JavaScript, TypeScript;
-- Testing: Jest, playwright, unittest;
+- Testing: Jest, playwright;
 
 ### Profiles
 - [leetcode](https://leetcode.com/VladislavShipovskoi)
