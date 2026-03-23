@@ -9,4 +9,3 @@ Technical skills:
 ### Profiles
 - [leetcode](https://leetcode.com/VladislavShipovskoi)
 - [codewars](https://www.codewars.com/users/VladislavShipovskoi)
-- [linkedin](https://www.linkedin.com/in/vladislav-shipovskoi-qs/)
