@@ -10,16 +10,16 @@ My primary focus is on building scalable application architectures, improving pe
 
 - **Languages:** TypeScript, JavaScript
 - **Frontend:** React, Next.js, Zustand, Redux, HTML5, CSS3 / SCSS
-- **Architecture & Ecosystem:** Feature-Sliced Design (FSD), Atomic Design, Turborepo
+- **Architecture & Ecosystem:** Feature-Sliced Design (FSD), Atomic Design, monorepo, microfrontend
 - **Build Tools:** Vite, Webpack
-- **Testing & Quality:** Jest, Vitest, Playwright, React Testing Library, ESLint, Zod, SonarQube
+- **Testing & Quality:** Jest, Vitest, Playwright, React Testing Library, ESLint, Zod
 - **Backend & APIs:** Node.js (NestJS), REST API, GraphQL, WebSockets
 - **DevOps & Tools:** Git, Docker, GitLab CI, GitHub Actions, Figma
 
 ---
 
 ### 💻 What I Focus On
-- **Architecture:** Designing clean, maintainable, and scalable codebases. Experienced in migrating legacy projects to modern stacks (e.g., JS/jQuery to React/TypeScript) and setting up monorepos.
+- **Architecture:** Designing clean, maintainable, and scalable codebases. Experienced in migrating legacy projects to modern stacks (e.g., JS/jQuery to React/TypeScript) and setting up monorepos and microfrontends.
 - **Performance:** Conducting performance audits, optimizing Web Vitals, and resolving memory leaks.
 - **Web Security:** Holding a degree in Information Security (from TUSUR), I apply security best practices to frontend development, ensuring proper handling of sensitive data, secure token storage, and mitigation of common vulnerabilities like XSS and CSRF.
 - **Reliability:** Setting up automated testing strategies, integrating runtime API validation, and configuring CI/CD pipelines with strict static analysis limits.
